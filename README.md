@@ -1,5 +1,4 @@
 # 🔥DSA-Bootcamp-Java
-- <a href="https://www.commclassroom.org/java" style="background-color:#FFFFFF;color:#000000;text-decoration:none">🧑‍💻 Syllabus and website </a>
 
 - <a href="https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ" title="Click here to access full Playlist on YouTube" style="background-color:#FFFFFF;color:#000000;text-decoration:none">📂 Complete Playlist</a>
  
