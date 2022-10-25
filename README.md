@@ -9,63 +9,64 @@
 # Progress Tracker
 
 ## DSA
-- [ ] Complete Git & GitHub Course
-- [ ] Introduction to Programming
+- [ ] [Complete Git & GitHub Course](https://www.youtube.com/watch?v=apGV9Kg7ics&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=4&t=393s) 
+- [ ] [Introduction to Programming](https://www.youtube.com/watch?v=wn49bJOYAZM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=5)
   - - [ ] Types of languages
   - - [ ] Memory management
-- [ ] Flow of the program
+- [ ] [Flow of the program](https://www.youtube.com/watch?v=lhELGQAV4gg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=6)
   - - [ ] Flowcharts 
   - - [ ] Pseudocode
-- [ ] Introduction to Java
+- [ ] [Introduction to Java](https://www.youtube.com/watch?v=4EP8YzcN0hQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=7)
   - - [ ] Introduction
   - - [ ] How it works
   - - [ ] Setup Installation
-  - - [ ] Input and Output in Java
-  - - [ ] Conditionals & Loops in Java
-    - - [ ] if else
-    - - [] loops
-    - - [ ] Switch statements
+- [ ] [Input and Output in Java](https://www.youtube.com/watch?v=TAtrPoaJ7gc&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=8)
   - - [ ] Data types
   - - [ ] Coding best practices
-- [ ] Functions
+  - - [ ] Debugging 
+- [ ] [Conditionals & Loops in Java](https://www.youtube.com/watch?v=ldYLYRNaucM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=9)
+    - - [ ] if else
+    - - [ ] loops
+    - - [ ] [Switch statements](https://www.youtube.com/watch?v=mA23x39DjbI&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=10)
+- [ ] [Functions](https://www.youtube.com/watch?v=vvanI8NRlSI&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=11)
   - - [ ] Introduction
   - - [ ] Scoping in Java
   - - [ ] Shadowing 
   - - [ ] Variable Length Arguments
   - - [ ] Overloading
-- [ ] Arrays
+- [ ] [Arrays](https://www.youtube.com/watch?v=n60Dn0UsbEk&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=12)
   - - [ ] Introduction 
   - - [ ] Memory management 
   - - [ ] Input and Output
   - - [ ] ArrayList Introduction
   - - [ ] Sorting 
-    - - [ ] Insertion Sort
-    - - [ ] Selection Sort
-    - - [ ] Bubble Sort
-    - - [ ] Cyclic Sort (Merge sort etc after recursion)
-  - [ ] Searching 
-    - - [ ] Linear Search
-    - - [ ] Binary Search
-    - - [ ] Modified Binary Search
-    - - [ ] Binary Search Interview questions
-    - - [ ] Binary Search on 2D Arrays
-- [ ] Pattern questions
-- [ ] Strings
+    - - [ ] [Insertion Sort](https://www.youtube.com/watch?v=By_5-RRqVeE&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=19)
+    - - [ ] [Selection Sort](https://www.youtube.com/watch?v=Nd4SCCIHFWk&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=18)
+    - - [ ] [Bubble Sort](https://www.youtube.com/watch?v=F5MZyqRp_IM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=17)
+    - - [ ] [Cyclic Sort (Merge sort etc after recursion)](https://www.youtube.com/watch?v=JfinxytTYFQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=20)
+  - - [ ] Searching 
+    - - [ ] [Linear Search](https://www.youtube.com/watch?v=_HRA37X8N_Q&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=13)
+    - - [ ] [Binary Search](https://www.youtube.com/watch?v=f6UU7V3szVw&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=14)
+      - - [ ] Modified Binary Search
+    - - [ ] [Binary Search Interview questions](https://www.youtube.com/watch?v=W9QJ8HaRvJQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=15)
+    - - [ ] [Binary Search on 2D Arrays](https://www.youtube.com/watch?v=enI_KyGLYPo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=16)
+- [ ] [Pattern questions(TRICKS!)](https://www.youtube.com/watch?v=lsOOs5J8ycw&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=22)
+- [ ] [Strings](https://www.youtube.com/watch?v=zL1DPZ0Ovlo&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=21)
     - [ ] Introduction
     - [ ] How Strings work
     - [ ] Comparison of methods
     - [ ] Operations in Strings
     - [ ] StringBuilder in java
-- [ ] Maths for DSA
-    - - [ ] Introduction
+- [ ] [Maths for DSA](https://www.youtube.com/watch?v=fzip9Aml6og&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=25)
+    - - [ ] Introduction 
     - - [ ] Complete Bitwise Operators
-    - - [ ] Prime numbers
-    - - [ ] HCF / LCM
-    - - [ ] Sieve of Eratosthenes
-    - - [ ] Newton's Square Root Method
-    - - [ ] Number Theory
     - - [ ] Euclidean algorithm
-- [ ] Space and Time Complexity Analysis
+    - - [ ] [Number Theory](https://www.youtube.com/watch?v=lmSpZ0bjCyQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=26)
+      - [ ] Prime numbers
+      - [ ] HCF / LCM
+      - [ ] Sieve of Eratosthenes
+      - [ ] Newton's Square Root Method  
+- [ ] [Space and Time Complexity Analysis:What is Big-O?](https://www.youtube.com/watch?v=mV3wrLBbuuE&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=24)
     - - [ ] Introduction
     - - [ ] Comparion of various cases
     - - [ ] Solving Linear Recurrence Relations
@@ -76,26 +77,31 @@
     - - [ ] Space Complexity 
     - - [ ] Memory Allocation of various languages
     - - [ ] NP Completeness and Hardness
-- [ ] Recursion
+- [ ] [Recursion](https://www.youtube.com/watch?v=M2uO2nMT0Bk&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=23)
     - - [ ] Introduction
     - - [ ] Why recursion?
     - - [ ] Flow of recursive programs - stacks
     - - [ ] Convert recursion to iteration
     - - [ ] Tree building of function calls
     - - [ ] Tail recursion
+    - - [ ] [Intro-Level Q's](https://www.youtube.com/watch?v=JxILxTwHukM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=27)
     - - [ ] Sorting:
-        - - [ ] Merge Sort
-        - - [ ] Quick Sort
+        - - [ ] [Merge Sort](https://www.youtube.com/watch?v=iKGAgWdgoRk&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=30)
+        - - [ ] [Quick Sort](https://www.youtube.com/watch?v=iKGAgWdgoRk&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=31)
     - - [ ] Backtracking
-        - - [ ] Sudoku Solver
-        - - [ ] N-Queens
-        - - [ ] N-Knights
-        - - [ ] Maze problems
-    - - [ ] Recursion String Problems
-    - - [ ] Recursion Array Problems
-    - - [ ] Recursion Pattern Problems
-    - - [ ] Subset Questions
-    - - [ ] Recursion - Permutations, Dice Throws etc Questions
+        - - [ ] [Intro](https://www.youtube.com/watch?v=zg5v2rlV1tM&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=35)
+            - - [ ] Theory
+            - - [ ] Maze problems
+        - - [ ] [Backtracking Questions](https://www.youtube.com/watch?v=nC1rbW2YSz0&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=36)
+            - - [ ] Sudoku Solver
+            - - [ ] N-Queens
+            - - [ ] N-Knights
+    - - [ ] [Recursion String Subset Subsequence Problems](https://www.youtube.com/watch?v=gdifkIwCJyg&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=32)
+    - - [ ] [Recursion Array Problems](https://www.youtube.com/watch?v=sTdiMLom00U&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=28)
+    - - [ ] [Recursion Pattern Problems](https://www.youtube.com/watch?v=ymgnIIclCF0&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=29)
+    - - [ ] Recursion Questions
+        - - [ ] [Permutations](https://www.youtube.com/watch?v=gDGw0cvFXPQ&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=33)
+        - - [ ] [Dice Throw & Letter Combinations of a Phone Number](https://www.youtube.com/watch?v=9ByWqPzfXDU&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=34)
 - [ ] Object Oriented Programming
     - - [ ] Introduction
     - - [ ] Classes & its instances
